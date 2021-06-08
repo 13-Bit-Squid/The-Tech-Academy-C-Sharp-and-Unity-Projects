@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\bin\Debug\Math-And-Comp-Assignment2.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\bin\Debug\Math-And-Comp-Assignment2.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\bin\Debug\Math-And-Comp-Assignment2.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\obj\Debug\Math-And-Comp-Assignment2.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\obj\Debug\Math-And-Comp-Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\obj\Debug\Math-And-Comp-Assignment2.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\Math-And-Comp-Assignment2\Math-And-Comp-Assignment2\obj\Debug\Math-And-Comp-Assignment2.pdb
