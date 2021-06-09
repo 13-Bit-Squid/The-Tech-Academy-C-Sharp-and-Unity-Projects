@@ -1,0 +1,6 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\bin\Debug\DoWhileAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DoWhileAssignment\DoWhileAssignment\obj\Debug\DoWhileAssignment.pdb
