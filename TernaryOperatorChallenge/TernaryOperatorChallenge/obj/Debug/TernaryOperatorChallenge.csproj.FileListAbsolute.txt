@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\bin\Debug\TernaryOperatorChallenge.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\TernaryOperatorChallenge\TernaryOperatorChallenge\obj\Debug\TernaryOperatorChallenge.pdb

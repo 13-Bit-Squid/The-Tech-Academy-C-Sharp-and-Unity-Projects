@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\ConditionalStatementChallenge.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\ConditionalStatementChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\bin\Debug\ConditionalStatementChallenge.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\ConditionalStatementChallenge.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\ConditionalStatementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\ConditionalStatementChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ConditionalStatementChallenge\ConditionalStatementChallenge\obj\Debug\ConditionalStatementChallenge.pdb
