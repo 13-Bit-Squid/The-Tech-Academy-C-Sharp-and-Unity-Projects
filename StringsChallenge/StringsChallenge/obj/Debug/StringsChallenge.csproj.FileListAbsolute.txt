@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.pdb
