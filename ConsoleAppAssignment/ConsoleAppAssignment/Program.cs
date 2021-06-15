@@ -71,7 +71,7 @@ namespace ConsoleAppAssignment
                 else
                 {
                     newList.Add(i);
-                    Console.WriteLine("Is not already in the list.");
+                    Console.WriteLine(i + " is not already in the list.");
                 }
             }
 

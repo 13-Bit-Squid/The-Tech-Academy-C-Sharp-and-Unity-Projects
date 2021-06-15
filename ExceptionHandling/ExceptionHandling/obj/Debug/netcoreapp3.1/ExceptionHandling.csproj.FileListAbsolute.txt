@@ -1,0 +1,13 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ExceptionHandling\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache
