@@ -19,9 +19,21 @@ namespace ExceptionHandling
             }
             catch (FormatException ex)
             {
+                Console.WriteLine("Please type a whole number."); //ex.Message "Used for generic error message"
+                return;
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Please do not divide by zero.");
+            }
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex.Message);
             }
-            Console.ReadLine();
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
