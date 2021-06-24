@@ -27,7 +27,7 @@ namespace MainMethodAssignment
             Console.WriteLine("Please input any number as a string, to be converted into an integer, then multiplied by 3.");
             string userStr = Console.ReadLine();
             int answer3 = operations3.MainOperator(userStr);
-            Console.WriteLine("Your number as an integer is, multiplied by 3 {0}", answer3);
+            Console.WriteLine("Your number as an integer, multiplied by 3 is {0}", answer3);
 
             Console.ReadLine();
         }
