@@ -12,23 +12,27 @@ namespace MainMethodAssignment
         {
             int prod;
             int numA = userInt;
-            prod = numA * 1;
+            prod = numA * 2;
             return prod;
         }
 
-        public int MainOperator(decimal userInt)
+        public int MainOperator(decimal userDec)
         {
             int wholeNum;
-            decimal numB = userInt;
-            wholeNum = Convert.ToInt32(numB);
+            int prod2;
+            decimal numB = userDec;
+            prod2 = Convert.ToInt32(numB);
+            wholeNum = prod2 * 5
             return wholeNum;
         }
 
         public int MainOperator(string userStr)
         {
             int stringNum;
+            int prod3;
             string numC = userStr;
-            stringNum = int.Parse(numC);
+            prod3 = int.Parse(numC);
+            stringNum = prod3 * 3;
             return stringNum;
         }
     }
