@@ -15,10 +15,14 @@ namespace MethodAssignment
             int a = Convert.ToInt32(Console.ReadLine());
             int b = 0;
             Console.WriteLine("If you wish to add an additional number to " + a + ", please input it in the following line.");
-            var c = Convert.ToInt32(Console.ReadLine());
-            if (c > 0)
+            string c = Console.ReadLine();
+            if (string.IsNullOrEmpty(c))
             {
-                b = c;
+                b = 0;
+            }
+            else
+            {
+               b = int.Parse(c);
             }
             int answer = mathOperation.MultiStepMath(a, b);
             Console.WriteLine("Your answer is: {0}", answer);

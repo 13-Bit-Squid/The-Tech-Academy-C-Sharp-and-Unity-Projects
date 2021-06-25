@@ -11,7 +11,7 @@ namespace MethodAssignment
         public int MultiStepMath(int a, int b)
         {
             int Result;
-            Result = 5 * a + b;
+            Result = 5 * (a + b);
             return Result;
         }
     }
