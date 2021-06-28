@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
