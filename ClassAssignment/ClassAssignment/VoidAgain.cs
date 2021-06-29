@@ -12,11 +12,12 @@ namespace ClassAssignment
         {
             int Quotient = a / 2;
             Console.WriteLine("Your number {0}, divided by 2 is: {1}", a, Quotient);
+            return;
         }
-        static string DivTwo(string b)
+        public void DivTwo(out int b)
         {
-            Console.WriteLine("You really just put words in a math request??");
-            return b;
+            b = 13;
+            b *= b;
         }
     }
 }
