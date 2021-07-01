@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassAssignment
 {
-    static class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -14,6 +14,7 @@ namespace ClassAssignment
             Console.WriteLine("Please input a number to be divided by 2.");
             int a = Convert.ToInt32(Console.ReadLine());
             voidAgain.DivTwo(a);
+            Console.WriteLine(StaticAgain.StaticStuff());
             Console.ReadLine();
         }
     }

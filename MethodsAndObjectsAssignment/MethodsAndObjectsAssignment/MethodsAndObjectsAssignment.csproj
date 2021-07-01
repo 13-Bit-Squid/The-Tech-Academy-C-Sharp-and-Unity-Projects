@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA22D218-9BBD-4D62-8F36-0815DDE4F58D}</ProjectGuid>
+    <ProjectGuid>{4E2A7140-585E-41E9-87EB-3B64B079B4A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne</RootNamespace>
-    <AssemblyName>TwentyOne</AssemblyName>
+    <RootNamespace>MethodsAndObjectsAssignment</RootNamespace>
+    <AssemblyName>MethodsAndObjectsAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Deck.cs" />
-    <Compile Include="Game.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TwentyOneGame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
