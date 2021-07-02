@@ -10,8 +10,13 @@ namespace MethodsAndObjectsAssignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.FirstName = new string(" ");
+            Employee employee = new Employee()
+            { 
+                FirstName = "Sample",
+                LastName = "Student"
+            };
+            employee.SayName();
+            Console.ReadLine();
         }
     }
 }
