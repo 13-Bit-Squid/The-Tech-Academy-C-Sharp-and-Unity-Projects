@@ -17,6 +17,7 @@ namespace AbstractClassAssignment
 
             };
             employee.SayName();
+            employee.Quit();
             Console.ReadLine();
         }
     }

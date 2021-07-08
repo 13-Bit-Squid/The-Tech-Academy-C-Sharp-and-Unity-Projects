@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    class Employee : Person, IQuittable
+    class Employee : Person, IQuittable //step 2
     {
         public override void SayName()
         {
@@ -14,7 +14,7 @@ namespace AbstractClassAssignment
             return;
         }
 
-        public void Quit()
+        public void Quit() 
         {
             Console.WriteLine("I quit!");
         }
