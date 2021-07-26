@@ -10,4 +10,10 @@ namespace MethodsAndObjectsAssignment
     {
         public int Id { get; set; }
     }
+
+    public static operator ==(Employee, )
+    {
+        
+    }
+
 }

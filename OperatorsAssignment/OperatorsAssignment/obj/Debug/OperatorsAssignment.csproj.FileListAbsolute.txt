@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\OperatorsAssignment\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
