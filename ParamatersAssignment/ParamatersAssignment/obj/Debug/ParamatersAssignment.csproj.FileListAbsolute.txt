@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\bin\Debug\ParamatersAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\bin\Debug\ParamatersAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\bin\Debug\ParamatersAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\obj\Debug\ParamatersAssignment.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\obj\Debug\ParamatersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\obj\Debug\ParamatersAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ParamatersAssignment\ParamatersAssignment\obj\Debug\ParamatersAssignment.pdb
