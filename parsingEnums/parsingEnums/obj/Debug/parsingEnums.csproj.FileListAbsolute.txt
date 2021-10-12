@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\bin\Debug\parsingEnums.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\parsingEnums\parsingEnums\obj\Debug\parsingEnums.pdb
