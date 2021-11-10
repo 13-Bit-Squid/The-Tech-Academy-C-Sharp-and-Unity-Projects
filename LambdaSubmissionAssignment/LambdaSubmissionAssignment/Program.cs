@@ -23,10 +23,25 @@ namespace LambdaSubmissionAssignment
                 new Employee(){ Id = 9, FirstName = "Gavin", LastName = "Sun"},
                 new Employee(){ Id = 10, FirstName = "Xavier", LastName = "Gennet"}
             };
-            foreach (Employee joe in employees)
+
+            List<Employee> joeList = new List<Employee>();
+
+            foreach (Employee employee in employees)
             {
-                Console.WriteLine();
+                if (employee.FirstName == "Joe")
+                {
+                    Employee employeeJoe = new Employee();
+                    joeList.Add(employee);
+                }
             }
+
+            // Lambda Expression for list of Joes
+            List<Employee> lambdaJoeList = new List<Employee>();
+            lambdaJoeList = employees.FindAll(x => x.FirstName == "Joe").ToList();
+
+            //Lambda Expresssion for list of Id's greater than 5
+            List<Employee> lambdaIdList = new List<Employee>();
+            lambdaIdList = employees.FindAll(y => y.Id > 5).ToList();
             Console.ReadLine();
         }
     }
