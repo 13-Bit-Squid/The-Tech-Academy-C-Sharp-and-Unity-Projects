@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\bin\Debug\LambdaSubmissionAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaSubmissionAssignment\LambdaSubmissionAssignment\obj\Debug\LambdaSubmissionAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\bin\Debug\StructChallenge.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.csprojAssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\StructChallenge\StructChallenge\obj\Debug\StructChallenge.pdb

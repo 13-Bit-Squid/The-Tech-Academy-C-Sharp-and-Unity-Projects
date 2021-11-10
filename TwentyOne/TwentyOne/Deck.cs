@@ -14,7 +14,7 @@ namespace TwentyOne
 
             for (int i = 0; i < 13; i++)
             {
-                for (int j = 0; j < 4; i++)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
                     card.Face = (Face)i;
@@ -30,16 +30,16 @@ namespace TwentyOne
         {
             for (int i = 0; i < times; i++)
             {
-                List<Card> tempList = new List<Card>();
+                List<Card> TempList = new List<Card>();
                 Random random = new Random();
 
                 while (Cards.Count > 0)
                 {
                     int randomIndex = random.Next(0, Cards.Count);
-                    tempList.Add(Cards[randomIndex]);
+                    TempList.Add(Cards[randomIndex]);
                     Cards.RemoveAt(randomIndex);
                 }
-                Cards = tempList;
+                Cards = TempList;
             }
         }
     }
