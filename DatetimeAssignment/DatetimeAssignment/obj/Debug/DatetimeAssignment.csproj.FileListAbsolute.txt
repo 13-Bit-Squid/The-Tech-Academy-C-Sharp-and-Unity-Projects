@@ -1,0 +1,7 @@
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\pendr\OneDrive\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb
